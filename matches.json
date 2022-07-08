@@ -1,7 +1,8 @@
 [
   {
   "Descrição": "Eliminatória Copa 2022",
-    "local" :  "Morumbi",
+    "local" : {
+    "Nome" :"Morumbi",
     "imagem": "TODO"
     },
   "Time da casa": {
@@ -13,7 +14,6 @@
    "nome" : "França",
    "Força": 4,
    "Imagen": "TODO"
-   }
- }
-
+     }
+    }
   ]
